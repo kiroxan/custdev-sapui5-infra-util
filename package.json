@@ -1,0 +1,11 @@
+{
+  "name": "custdev-sapui5-infra-util",
+  "version": "4.3.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "random",
+  "license": "ISC"
+}

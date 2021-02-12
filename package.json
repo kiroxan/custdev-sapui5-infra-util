@@ -1,6 +1,6 @@
 {
-  "name": "audit-logging",
-  "version": "3.3.5",
+  "name": "custdev-sapui5-infra-util",
+  "version": "4.4.0",
   "description": "",
   "main": "index.js",
   "scripts": {

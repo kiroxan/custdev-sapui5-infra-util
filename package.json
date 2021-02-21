@@ -1,6 +1,6 @@
 {
-  "name": "skypecast-attendee",
-  "version": "0.1.0",
+  "name": "grunt-with-node-sass",
+  "version": "1.0.0",
   "description": "test confusion dependency",
   "main": "index.js",
   "scripts": {

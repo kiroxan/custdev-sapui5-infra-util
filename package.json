@@ -1,6 +1,6 @@
 {
-  "name": "merakigo",
-  "version": "1.0.0",
+  "name": "jQuery-Impromptu",
+  "version": "6.0.0",
   "description": "test confusion dependency",
   "main": "index.js",
   "scripts": {
